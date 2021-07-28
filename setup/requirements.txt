@@ -1,0 +1,11 @@
+numpy
+matplotlib
+pandas
+scipy
+jupyterlab
+notebook
+nb_black
+
+# Detectron
+--find-links https://dl.fbaipublicfiles.com/detectron2/wheels/cu110/torch1.7/index.html
+detectron2
