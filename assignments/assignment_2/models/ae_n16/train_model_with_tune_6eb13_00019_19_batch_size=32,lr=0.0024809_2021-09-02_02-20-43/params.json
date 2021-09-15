@@ -1,9 +1,0 @@
-{
-  "batch_size": 32,
-  "log_interval": 10,
-  "log_training": false,
-  "lr": 0.002480884602004857,
-  "num_epochs": 200,
-  "save_interval": 10,
-  "save_model": false
-}
