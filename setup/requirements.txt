@@ -10,6 +10,10 @@ torchsummary
 ray[tune]
 carbontracker
 jupyterlab_execute_time
+seaborn
+scikit-learn
+scikit-image
+torch-lr-finder
 
 # PyTorch
 --find-links https://download.pytorch.org/whl/torch_stable.html

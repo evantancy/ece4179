@@ -3,8 +3,15 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-
 *.gz
 *.pkl
-
 .ipynb_checkpoints/
+*.png
+.DS_Store
+/_MACOSX/
+*/assignment_3/*.npz
+
+/lab_5/data/
+/lab_6/data/
+/lab_7/data/
+/lab_8/data/
